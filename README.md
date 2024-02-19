@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: ...Let's Do It !!
 
-⚡ Fun fact: ...I can learn any skills faster than you🤫🤫.... -->
+⚡ Fun fact: ...Eager to learn new technical skills.... -->
 
 <!---
 rohsingh26/rohsingh26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
