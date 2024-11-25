@@ -4,7 +4,7 @@ Hii 👋 Devs...
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning DSA in C++
+🌱 I’m currently learning DSA in C++/Pythona and MERN stack
 
 👯 I’m looking to collaborate on Programming Community
 
