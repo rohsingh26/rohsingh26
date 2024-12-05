@@ -5,19 +5,22 @@ Here are some ideas to get you started:
 
 🎓 I'm a final year Engineering student passionate about software development and exploring emerging technologies
 
-🌱 I’m skilled in Data Structures and Algorithms (DSA) using C++ and Python as well as backend development with Django and SQL databases and i'm currently learning the MERN stack
+🌱 Skilled in Data Structures and Algorithms (DSA) using C++ and Python as well as backend development with Django and SQL databases
 
-🤝 I’m looking to collaborate on Programming Community
+📚 Currently learning the MERN stack to expand my expertise in full-stack development
 
-🤔 I’m looking for help with in depth of Software Engineering
+🤝 Open to collaborate on Programming Communities or interesting software projects
 
-💬 Ask me about ...Anything
+🤔 Looking for guidance on in-depth  concepts of Software Engineering
 
-📫 How to reach me: ...Linkedln Profile- rohsingh26
+💬 Ask me about coding and backend development
 
-😄 Pronouns: ...Let's Do It !!
+📫 How to reach me: Linkedln Profile: rohsingh26
+                     Email: rohsingh26@gmail.com
 
-⚡ Fun fact: ...Eager to learn new technical skills.... -->
+⚡ Fun fact: Eager to learn new technical skills.... -->
+
+😄 Motto: ...Let's Do It !!
 
 <!---
 rohsingh26/rohsingh26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
