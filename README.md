@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: Linkedln Profile: [rohsingh26](https://www.linkedin.com/in/rohsingh26)
 
-                     Email: rohsingh26@gmail.com
-
 ⚡ Fun fact: Eager to learn new technical skills.... -->
 
 😄 Motto: ...Let's Do It !!
