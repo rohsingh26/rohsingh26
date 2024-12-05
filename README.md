@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about coding and backend development
 
-📫 How to reach me: Linkedln Profile: [rohsingh26](https://www.linkedin.com/in/rohsingh26)
+📫 Connect with me on Linkedln: [rohsingh26](https://www.linkedin.com/in/rohsingh26)
 
 ⚡ Fun fact: Eager to learn new technical skills.... -->
 
