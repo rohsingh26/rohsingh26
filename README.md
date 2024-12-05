@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 🎓 I'm a final year Engineering student passionate about software development and exploring emerging technologies
 
-🌱 Skilled in Data Structures and Algorithms (DSA) using C++ and Python as well as backend development with Django and SQL databases
+🛠️ Skilled in Data Structures and Algorithms (DSA) using C++ and Python as well as backend development with Django and SQL databases
 
 📚 Currently learning the MERN stack to expand my expertise in full-stack development
 
