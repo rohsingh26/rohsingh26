@@ -3,17 +3,15 @@ Hii 👋 Devs...
 
 Here are some ideas to get you started:
 
-🎓 I'm a final year Engineering student passionate about software development and exploring emerging technologies
+🎓 I'm a final year Engineering student passionate about software development and exploring emerging technologies.
 
-🛠️ Skilled in Data Structures and Algorithms (DSA) using C++ and Python as well as backend development with Django and SQL databases
+🛠️ Skilled in Data Structures and Algorithms (DSA) using C++ and Python, as well as backend development with Django and SQL databases. Additionally, I have a strong understanding of front-end technologies, including ReactJS and Tailwind CSS, and I am proficient in the MERN stack.
 
-📚 Currently learning the MERN stack to expand my expertise in full-stack development
+🤝 Open to collaborate on Programming Communities or interesting software projects.
 
-🤝 Open to collaborate on Programming Communities or interesting software projects
+🤔 Looking for guidance on in-depth  concepts of Software Engineering.
 
-🤔 Looking for guidance on in-depth  concepts of Software Engineering
-
-💬 Ask me about coding and backend development
+💬 Ask me about coding and backend development.
 
 📫 Connect with me on Linkedln: [rohsingh26](https://www.linkedin.com/in/rohsingh26)
 
