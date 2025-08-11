@@ -1,17 +1,16 @@
-Hii 👋 Devs...
-
+Hii 👋 Devs,
 
 Here are some ideas to get you started:
 
-🎓 I'm a final year Engineering student passionate about software development and exploring emerging technologies.
+👨‍💻 I’m an SDE passionate about software development and exploring emerging technologies.
 
-🛠️ Skilled in Data Structures and Algorithms (DSA) using C++ and Python, as well as backend development with Django and SQL databases. Additionally, I have a strong understanding of front-end technologies, including Vue.js, React.js and Tailwind CSS, and I am proficient in the MERN stack.
+🛠️ Skilled in Data Structures and Algorithms (DSA) with C++ and Python, as well as backend development using Node.js, Django, MongoDB, and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js, and Tailwind CSS.
 
-🤝 Open to collaborate on Programming Communities or interesting software projects.
+🤝 Open to collaborating on programming communities or exciting software projects.
 
-🤔 Looking for guidance on in-depth concepts of Software Engineering.
+🤔 Seeking guidance on advanced concepts in Software Engineering.
 
-💬 Ask me about coding and backend development.
+💬 Feel free to ask me about coding and backend development.
 
 📫 Connect with me on Linkedln: [rohsingh26](https://www.linkedin.com/in/rohsingh26)
 
