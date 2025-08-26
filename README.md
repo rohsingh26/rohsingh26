@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 👨‍💻 I’m an SDE passionate about software development and exploring emerging technologies.
 
-🛠️ Skilled in Data Structures and Algorithms (DSA) with C++ and Python, as well as backend development using Node.js, Django, MongoDB, and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js, and Tailwind CSS.
+🛠️ Skilled in Data Structures and Algorithms (DSA) with C++ and Python, as well as backend development using Node.js, Express.js, Django, MongoDB, Redis, Kafka and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js, and Tailwind CSS.
 
 🤝 Open to collaborating on programming communities or exciting software projects.
 
