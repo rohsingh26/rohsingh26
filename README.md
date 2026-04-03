@@ -1,14 +1,14 @@
-Hii 👋 Devs,
+Hi 👋 Devs,
 
 Here are some ideas to get you started:
 
-👨‍💻 I’m a Full Stack SDE passionate about software development and exploring emerging technologies.
+👨‍💻 I’m a Full Stack Developer passionate about software engineering and exploring emerging technologies.
 
-🛠️ Skilled in Data Structures and Algorithms (DSA) with C++ and Python, as well as backend development using Node.js, Express.js, Django, MongoDB, Redis, Kafka and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js, and Tailwind CSS.
+🛠️ Skilled in Data Structures and Algorithms (DSA) with Python and C++, as well as backend development using Django, Flask, FastAPI, Node.js, Express.js, MongoDB, Redis, Kafka and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js.
 
 🤝 Open to collaborating on programming communities or exciting software projects.
 
-🤔 Seeking guidance on advanced concepts in Software Engineering.
+🤔 Seeking guidance on system design and advanced concepts in software engineering.
 
 💬 Feel free to ask me about coding and backend development.
 
