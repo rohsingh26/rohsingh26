@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 👨‍💻 I’m a Full Stack Developer passionate about software engineering and exploring emerging technologies.
 
-🛠️ Skilled in Data Structures and Algorithms (DSA) with Python and C++, as well as backend development using Django, Flask, FastAPI, Node.js, Express.js, MongoDB, Redis, Kafka and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js.
+🛠️ Skilled in Data Structures and Algorithms (DSA) with Python and Java, as well as backend development using Spring Boot, Django, Flask, FastAPI, Node.js, Express.js, MongoDB, Redis, Kafka and SQL databases. I also have a solid grasp of frontend technologies, including Vue.js, React.js.
 
 🤝 Open to collaborating on programming communities or exciting software projects.
 
